@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-A responsive weather application built with **React** and **Vite** that fetches and displays real-time weather data using the [OpenWeatherMap API](https://www.google.com/search?q=weather&oq=weather+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQABhGGIACGJIDGLEDGIAEMg0IAhAAGJIDGIAEGIoFMgoIAxAAGLEDGIAEMgoIBBAAGLEDGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgoICBAAGLEDGIAEMgcICRAAGI8C0gEJNzQ5M2owajE1qAIIsAIB8QVVheNoCO0BVvEFVYXjaAjtAVY&sourceid=chrome&ie=UTF-8&zx=1754419946731&no_sw_cr=1)). Users can search for any city to view current temperature, weather conditions, and more.
+A responsive weather application built with **React** and **Vite** that fetches and displays real-time weather data using the [OpenWeatherMap API](https://www.google.com/search?q=weather&oq=weather+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQABhGGIACGJIDGLEDGIAEMg0IAhAAGJIDGIAEGIoFMgoIAxAAGLEDGIAEMgoIBBAAGLEDGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgoICBAAGLEDGIAEMgcICRAAGI8C0gEJNzQ5M2owajE1qAIIsAIB8QVVheNoCO0BVvEFVYXjaAjtAVY&sourceid=chrome&ie=UTF-8&zx=1754419946731&no_sw_cr=1). Users can search for any city to view current temperature, weather conditions, and more.
 
 ## 🔧 Features
 
